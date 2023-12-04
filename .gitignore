@@ -2,6 +2,10 @@
 test/
 Debug/
 **/Debug/
+
+.gitattributes
+.gitignore
+
 **/*.vcxproj
 **/*.vcxproj.filters
 **/*.vcxproj.user
